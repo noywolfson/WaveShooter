@@ -12,6 +12,10 @@ VR Shooter Game
 1. Clone/Download the zip file from the WaveShooter repository to your local computer
 2. Open WaveShooter folder on Unity and play
 
+### Built With
+
+* C#
+* Unity
 
 ### Screenshots 
 #### Initial Screen
